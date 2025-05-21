@@ -1,2 +1,3 @@
 # spaceshooter
-Space Shooter game för skolan
+Space Shooter game for a schoolproject
+Made by por_quez, currently learning python
